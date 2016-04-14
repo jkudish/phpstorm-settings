@@ -52,4 +52,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
 </application>
